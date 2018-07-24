@@ -1,4 +1,14 @@
-<?php include '../../header.php';?>
+<script src="//code.jquery.com/jquery-1.10.2.js"></script>
+<script> 
+$(function(){
+  $("#header").load("https://bakolscript.github.io/yayanheeh/header.html"); 
+  $("#footer").load("https://bakolscript.github.io/yayanheeh/footer.html"); 
+});
+</script> 
+
+<div id="header"></div>
+
+<div id="footer"></div>
 <div class="panel panel-default">
   <div class="panel-heading">Script Telegram</div>
   <div class="panel-body">
