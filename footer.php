@@ -1,0 +1,50 @@
+</div>
+</main>
+</div> 
+<div class="container"><main class="cd-main-content sub-nav-hero">
+<div><div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://http-bakolpulsa-com-download-html.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  </div></main></div>
+<script>
+<script>         
+
+
+<div class="row" style="background-color:#f7fdfe;"><div class="container">
+    <div class="col-sm-4" style="background-color:#f7fdfe;"><br/><b>Produck</b><hr/><a href="">Script Telegram</a><br/><br/>
+<a href="">Script Youtube</a><br/><br/>
+<a href="">Template Blogger</a><br/><br/>
+<a href="">Template Wordpress</a><br/><br/><br/><br/></div>
+    <div class="col-sm-4" style="background-color:#f7fdfe;"><br/><b>Free Template</b><hr/><a href="">Script Telegram</a><br/><br/>
+<a href="">Script Youtube</a><br/><br/>
+<a href="">Template Blogger</a><br/><br/>
+<a href="">Template Wordpress</a><br/><br/><br/><br/></div>
+    <div class="col-sm-4" style="background-color:#f7fdfe;"><br/><b>Contack Kami</b><hr/><a href=""><img src="https://png.icons8.com/color/30/2980b9/instagram-new.png" /> Instagram</a><br/><br/>
+<a href=""><img src="https://png.icons8.com/color/30/2980b9/facebook.png" /> Facebook</a><br/><br/>
+<a href=""><img src="https://png.icons8.com/color/30/2980b9/whatsapp.png" /> WhatsApp</a><br/><br/>
+<a href=""><img src="https://png.icons8.com/color/30/2980b9/telegram-app.png" /> Telegram</a><br/><br/></div>
+<span style='float:left;'><b>Surabaya-Indonesia 2018</b></span>
+  </div>
+</div>     </div>            
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+<script>
+	if( !window.jQuery ) document.write('<script src="js/jquery-3.0.0.min.js"><\/script>');
+</script>
+<script src="http://bakolscript.online/js/main.js"></script> <!-- Resource jQuery -->
